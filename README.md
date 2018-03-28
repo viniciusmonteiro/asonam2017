@@ -1,4 +1,7 @@
-# asonam2017
+## asonam2017
+
+Please cite our paper if you publish material based on those datasets.
+* de Lira, V. M., Macdonald, C., Ounis, I., Perego, R., Renso, C. and Times, V. C. (2017) Exploring Social Media for Event Attendance. In: The 2017 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM), pp. 447-450. ISBN 9781450349932 (doi:10.1145/3110025.3110080)
 
 
 ### Collected tweets
